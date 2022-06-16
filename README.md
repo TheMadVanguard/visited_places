@@ -1,4 +1,4 @@
-# Yet Another "Visited Places" Map
+# A Visited Places Map
 
 This is a simple local web application which allows to visualize countries
 and places (cities, etc.) you have visited during travels.
