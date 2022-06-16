@@ -37,7 +37,9 @@ Customization:
 
 Credits:
 
-Based on D3 Datamaps examples. Put together by Paul Sokolovsky. MIT
+* Based on D3 Datamaps examples. Put together by Paul Sokolovsky. MIT
 license.
-Originally created by [pfalcon](https://github.com/pfalcon/visited_places)
-Docker inforamtion from [bmaximuml](https://github.com/bmaximuml/visited_places)
+
+* Originally created by [pfalcon](https://github.com/pfalcon/visited_places)
+
+* Docker inforamtion from [bmaximuml](https://github.com/bmaximuml/visited_places)
