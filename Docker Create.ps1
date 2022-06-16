@@ -7,7 +7,7 @@ $date = "$Y.$M.$D"
 
 cd "C:\GitHub\TheMadVanguard\visited_places"
 docker build -t themadvanguard/visited_places:latest .
-docker build -t themadvanguard/visited_places:$date .
+docker build -t themadvanguard/visited_places:02_$date .
 
 docker push themadvanguard/visited_places:latest
-docker push themadvanguard/visited_places:$date
+docker push themadvanguard/visited_places:02_$date
