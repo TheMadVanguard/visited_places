@@ -42,4 +42,4 @@ license.
 
 * Originally created by [pfalcon](https://github.com/pfalcon/visited_places)
 
-* Docker inforamtion from [bmaximuml](https://github.com/bmaximuml/visited_places)
+* Docker information from [bmaximuml](https://github.com/bmaximuml/visited_places)
