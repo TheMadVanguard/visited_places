@@ -1,8 +1,21 @@
 CITIES =
 [
    //{name: '', latitude: , longitude: , radius: 3, fillKey: 'city', date: ' 2020'},
-   {name: 'Venice', latitude: 45.4408, longitude: 12.3155, radius: 3, fillKey: 'city', date: '1963-10'},
-   // Not really a city, but we define just one type of "POI" (fillKey here) in index.html, you can define more.
-   {name: 'Khao Phing Kan', latitude: 8.2745, longitude: 98.5012, radius: 3, fillKey: 'city', date: '1974-12'},
-   {name: 'San Francisco', latitude: 37.7749, longitude: -122.4194, radius: 3, fillKey: 'city', date: '1985-05'},
-]
+   {name: 'Brest, FRA', latitude: 48.3956053, longitude: -4.4926521, radius: 3, fillKey: 'city', date: '2002'},
+   {name: 'Murcia, ESP', latitude: 38.1626301, longitude: -2.1993724, radius: 3, fillKey: 'city', date: '2005 - 2008'},
+   {name: 'Corfu, GRC', latitude: 39.7919559, longitude: 19.7063143, radius: 3, fillKey: 'city', date: '2008 - 2010'},
+   {name: 'Monastir, TUN', latitude: 35.49592, longitude: 11.053555, radius: 3, fillKey: 'city', date: 'Jan 2017'},
+   {name: 'Sousse, TUN', latitude: 35.828079, longitude: 10.636817, radius: 3, fillKey: 'city', date: 'Oct 2018'},
+   {name: 'Altinkum, TRK', latitude: 37.1987145, longitude: 27.3242378, radius: 3, fillKey: 'city', date: 'Oct 2017'},
+   {name: 'Mons, BEL', latitude: 50.4458514, longitude: 3.8997942, radius: 3, fillKey: 'city', date: 'Feb 2022'},
+   {name: 'Bahrain, BHR', latitude: 26.2050058, longitude: 50.6120898, radius: 3, fillKey: 'city', date: 'Mar 2022'},
+   {name: 'Devon', latitude: 50.3738125, longitude: -4.184922, radius: 2, fillKey: 'city', date: ''},
+   {name: 'London', latitude: 51.5287718, longitude: -0.2416803, radius: 2, fillKey: 'city', date: ''},
+   {name: 'Cornwall', latitude: 50.2400277, longitude: -5.3575551, radius: 2, fillKey: 'city', date: ''},
+   {name: 'Manchster', latitude: 53.4723272, longitude: -2.2935021, radius: 2, fillKey: 'city', date: ''},
+   {name: 'Halifax', latitude: 44.6559408, longitude: -63.5864217, radius: 3, fillKey: 'city', date: 'Jun 2022'},
+   {name: 'Gibraltar', latitude: 36.1475695, longitude: -5.3479074, radius: 3, fillKey: 'city', date: 'March 2023'},
+   {name: 'Middelsbrough', latitude: 54.5855617, longitude: -1.1986196, radius: 2, fillKey: 'city', date: 'June 2023'},
+   {name: 'Rosyth', latitude: 56.0287782, longitude: -3.4568561, radius: 2, fillKey: 'city', date: 'Jun 2023'},
+   {name: 'Prague', latitude: 50.0771809, longitude: 14.4243241, radius: 3, fillKey: 'city', date: 'Aug 2024'},
+   ]
