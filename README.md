@@ -31,6 +31,20 @@ How to use:
   Internet. (E.g., you can use Github Pages, example is here:
   https://pfalcon.github.io/visited_places/).
 
+
+To run with docker
+
+  Using the public image
+```
+  services:
+  web:
+   image: themadvanguard/visited_places:latest
+   volumes:
+    - /opt/docker/storage/travel:/usr/share/nginx/html/data
+   ports:
+    - "8083:80"
+   restart: unless-stopped
+```
 Customization:
 
 * Refer to [D3 Datamaps](http://datamaps.github.io/) docs and samples.
